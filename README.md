@@ -35,4 +35,4 @@ Contributions are welcome! If you have any ideas or suggestions to improve the g
 ## Contact
 If you have any questions or feedback regarding the game, please contact alisadaintanvir@gmail.com.
 
-Enjoy the game!
+## Enjoy the game!
