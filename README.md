@@ -33,6 +33,6 @@ Contributing
 Contributions are welcome! If you have any ideas or suggestions to improve the game, please feel free to open an issue or submit a pull request.
 
 ## Contact
-If you have any questions or feedback regarding the game, please contact your-alisadaintanvir@gmail.com.
+If you have any questions or feedback regarding the game, please contact alisadaintanvir@gmail.com.
 
 Enjoy the game!
