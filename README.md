@@ -5,7 +5,7 @@ This is a classic turtle crossing game built using the Turtle graphics module in
 To run the game on your local machine, follow these steps:
 
 ## Clone the repository:
-`git clone https://github.com/your-username/turtle-crossing.git`
+`git clone https://github.com/Alisadaintanvir/turtle-crossing.git`
 Install the required dependencies. The game relies on the turtle module, which is typically included in the Python standard library.
 
 ## Run the game:
@@ -13,7 +13,7 @@ Install the required dependencies. The game relies on the turtle module, which i
 
 ## Gameplay
 -Use the Up arrow key to move the player turtle upwards.
--Avoid colliding with the moving cars.
+-Avoid colliding with moving cars.
 -Successfully cross the road to earn points and advance to the next level.
 -The game ends if the player collides with a car.
 
